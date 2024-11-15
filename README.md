@@ -9,7 +9,6 @@ Welcome to, Your Guardian Against Fraud! This Fraud Detection System is designed
 4. Installation
 5. Usage
 6. Contributing
-7. License
 
 # Features 
 Effortless CSV Upload:
