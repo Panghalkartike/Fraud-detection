@@ -85,6 +85,3 @@ Choose between searching by CustomerID or MerchantID.
 
 # Contributing
 Contributions are welcome! If you have ideas for improvements or find issues, please open an issue or submit a pull request.
-
-# License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
