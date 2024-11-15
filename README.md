@@ -1,4 +1,4 @@
-# Rock Fraud Detection System
+# Fraud Detection System
 ## Overview
 Welcome to Rock, Your Guardian Against Fraud! This Fraud Detection System is designed to help users identify and prevent potential fraud in their transactions. Whether you want to analyze overall data, upload a dataset for analysis, or search for specific transactions, Rock has got you covered.
 
@@ -57,11 +57,11 @@ The dataset is organized within the "data" folder and consists of several subfol
 - `data.py`: Python file containing code to generate the dataset based on real-world data.
 
 # Installation 
-To use Rock Fraud Detection System, follow these steps:
+To use Fraud Detection System, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/manikantpandey/RJPOLICE_HACK_620_Phoenix_7.git
+git clone (https://github.com/Panghalkartike/Fraud-detection)
 ```
 2. Install dependencies:
 ```
