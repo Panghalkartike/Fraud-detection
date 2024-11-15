@@ -59,19 +59,15 @@ The dataset is organized within the "data" folder and consists of several subfol
 # Installation 
 To use Fraud Detection System, follow these steps:
 
-1. Clone the repository:
-```
-git clone (https://github.com/Panghalkartike/Fraud-detection)
-```
-2. Install dependencies:
+1. Install dependencies:
 ```
 pip install -r requirements.txt
 ```
-3. Run the application:
+2. Run the application:
 ```
 streamlit run app.py
 ```
-4. Access the system in your web browser
+3. Access the system in your web browser
 
 
 # Usage 
