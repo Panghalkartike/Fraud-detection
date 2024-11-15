@@ -1,6 +1,6 @@
 # Fraud Detection System
 ## Overview
-Welcome to Rock, Your Guardian Against Fraud! This Fraud Detection System is designed to help users identify and prevent potential fraud in their transactions. Whether you want to analyze overall data, upload a dataset for analysis, or search for specific transactions, Rock has got you covered.
+Welcome to, Your Guardian Against Fraud! This Fraud Detection System is designed to help users identify and prevent potential fraud in their transactions. Whether you want to analyze overall data, upload a dataset for analysis, or search for specific transactions, Rock has got you covered.
 
 # Table of Contents
 1. Introduction
